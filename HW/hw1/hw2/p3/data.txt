@@ -1,0 +1,12 @@
+A B 
+B C
+C
+D E A
+E E
+6
+prairie Lion 5 B
+prairie Zebra 3 B
+desert Camel 8 C
+arctic Polar_Bear 6 E
+jungle Tiger 4 E
+jungle Monkey 2 E
