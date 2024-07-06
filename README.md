@@ -1,5 +1,7 @@
 # python_NCHU_class
 
-HW & lab & 課堂作業
+HW & lab
+
+上機考內容
 
 大一選修
